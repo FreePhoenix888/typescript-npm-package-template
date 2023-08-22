@@ -17,6 +17,7 @@
   ],
   "devDependencies": {
     "@types/node": "^20.2.4",
-    "typescript": "^4.9.5"
+    "typescript": "^4.9.5",
+    "@deep-foundation/npm-automation": "^18.1.3"
   }
 }
