@@ -5,7 +5,7 @@
 # Automatically
 
 ```bash
-npm init @freephoenix888/create-typescript-npm-package --package-name="<PACKAGE_NAME>" --description="<DESCRIPTION>" --repository-url="<REPOSITORY_URL>"
+npx @freephoenix888/create-typescript-npm-package@latest --package-name="<PACKAGE_NAME>" --description="<DESCRIPTION>" --repository-url="<REPOSITORY_URL>"
 ```
 Note: change <> to your values
 
